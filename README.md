@@ -1,4 +1,5 @@
 🩺 Diabetes Prediction Using Machine Learning
+
 📝 Project Overview
 
 This project predicts the likelihood of diabetes using various Machine Learning (ML) algorithms. Early prediction helps in preventive healthcare and timely medical intervention.
