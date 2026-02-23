@@ -8,25 +8,25 @@ The system uses patient health parameters such as Glucose level, BMI, Age, Blood
 
 ## 💡 Key Features
 
-Predicts diabetes based on Glucose, BMI, Age, Blood Pressure, Insulin, etc.
+1. Predicts diabetes based on Glucose, BMI, Age, Blood Pressure, Insulin, etc.
 
-Implements multiple Machine Learning algorithms for accurate predictions.
+2. Implements multiple Machine Learning algorithms for accurate predictions.
 
-Compares different models to select the best-performing model.
+3. Compares different models to select the best-performing model.
 
-Interactive Streamlit web interface for real-time predictions.
+4. Interactive Streamlit web interface for real-time predictions.
 
 ## 🛠️ Technologies Used
 
-Programming Language: Python
+1. Programming Language: Python
 
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+2. Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Web Framework: Streamlit
+3. Web Framework: Streamlit
 
-Model Saving: Pickle (.pkl files)
+4. Model Saving: Pickle (.pkl files)
 
-Dataset: Pima Indians Diabetes Database
+5. Dataset: Pima Indians Diabetes Database
 
 ## 🚀 How to Run the Project 
 
@@ -41,27 +41,27 @@ streamlit run app.py
 
 ## 📊 Machine Learning Models Used
 
-Logistic Regression (LR)
+1. Logistic Regression (LR)
 
-Decision Tree Classifier (DT)
+2. Decision Tree Classifier (DT)
 
-Support Vector Machine (SVM)
+3. Support Vector Machine (SVM)
 
-K-Nearest Neighbours (KNN)
+4. K-Nearest Neighbours (KNN)
 
-Gaussian Naive Bayes (GNB)
+5. Gaussian Naive Bayes (GNB)
 
-Artificial Neural Network (ANN)
+6. Artificial Neural Network (ANN)
 
-Evaluation Metrics Used:
+### Evaluation Metrics Used:
 
-Accuracy
+1. Accuracy
 
-Precision
+2. Precision
 
-Recall
+3. Recall
 
-F1-Score
+4. F1-Score
 
 ## 📈 Sample Outputs
 
