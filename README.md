@@ -1,12 +1,12 @@
 # 🩺 Diabetes Prediction Using Machine Learning Algorithms
 
-📝 Project Overview
+## 📝 Project Overview
 
 This project predicts the likelihood of diabetes using various Machine Learning (ML) algorithms. Early prediction helps in preventive healthcare and timely medical intervention.
 
 The system uses patient health parameters such as Glucose level, BMI, Age, Blood Pressure, Insulin, etc., to predict whether a person is diabetic or not.
 
-💡 Key Features
+## 💡 Key Features
 
 Predicts diabetes based on Glucose, BMI, Age, Blood Pressure, Insulin, etc.
 
@@ -16,7 +16,7 @@ Compares different models to select the best-performing model.
 
 Interactive Streamlit web interface for real-time predictions.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Programming Language: Python
 
@@ -28,7 +28,7 @@ Model Saving: Pickle (.pkl files)
 
 Dataset: Pima Indians Diabetes Database
 
-🚀 How to Run the Project 
+## 🚀 How to Run the Project 
 
 git clone https://github.com/patri-chaitanya/Diabetes-Prediction-Using-Machine-Learning.git
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-📊 Machine Learning Models Used
+## 📊 Machine Learning Models Used
 
 Logistic Regression (LR)
 
@@ -130,7 +130,7 @@ Diabetes-Prediction-Using-Machine-Learning-Algorithms/
 
 2. Scikit-learn Official Documentation
 
-✨ Author
+## ✨ Author
 
 Patri Chaitanya Sri Lalitha Sai
 
